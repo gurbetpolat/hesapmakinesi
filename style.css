@@ -1,0 +1,93 @@
+*{
+    background-color:yellow;
+}
+
+.index-page{
+
+    
+    text-align: center;
+    justify-content: center;
+   margin:0 auto;
+
+ 
+
+}
+ h1{
+    font-size: 50px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    bottom: 50px;
+    top: 50px;
+  
+}
+.container{
+    background-color: white;
+    width:458px ;
+    height: 100px;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+    justify-content: center;
+   margin:0 auto;
+  
+}
+.tus:hover{
+    color: white;
+    background-color: purple;
+}
+
+.tus{
+height: 75px;
+width: 95px;
+margin-left: 30px;
+margin-top: 10px;
+background-color: white;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: 50px;
+
+}
+#tusa:hover{
+    color: black;
+    background-color: white;
+}
+#tusa{
+    height: 75px;
+width: 95px;
+margin-left: 30px;
+margin-top: 10px;
+background-color: red;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: 50px;
+color: white;
+    
+}
+#tusb:hover{
+   background-color: white;
+   color: black;
+}
+#tusb{
+    height: 75px;
+    width: 230px;
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: pink;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 50px;
+    color: black;
+
+}
+.ekran{
+    background-color: black;
+    width: 450px;
+    height: 80px;
+    pointer-events: none;
+    color: white;
+}
+
+
